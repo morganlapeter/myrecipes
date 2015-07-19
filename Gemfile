@@ -51,6 +51,7 @@ gem 'pry'
   
   group :production do
     gem 'pg'
+    # postgress for heroku
     gem 'rails_12factor'
   end
   
