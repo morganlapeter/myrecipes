@@ -66,12 +66,7 @@ What we need to do:
 
 
 
- herokuapp
-Access Key ID:
-AKIAJP6PUXKVWPNYVONA
-Secret Access Key:
-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
-#delete this later
+
 
 FOR REVIEWS
 Thing's you'll need:
